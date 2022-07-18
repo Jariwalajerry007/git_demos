@@ -24,6 +24,8 @@ public class week {
             	System.out.println("Saturday");break;
             case 7:
             	System.out.println("Sunday");break;
+            case 8:
+		System.out.println("No more options");break;
             }
         }
 		
